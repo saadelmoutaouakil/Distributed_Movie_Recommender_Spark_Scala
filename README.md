@@ -4,7 +4,7 @@ Nicolas Jimenez
   
   
   
-In this project, we built a recommender system for Movies.  
+In this project, we built a distributed recommender system for Movies.  
 In Part 1,  we implemented a simple baseline prediction for recommendation then distributed it with Spark.  
 We then compared the quality of its predictions to a second personalized approach based on similarities and k-NN.  
 We finally measured the CPU time to develop insights in the system costs of the prediction methods.  
